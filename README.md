@@ -72,7 +72,7 @@ Top five features by Random Forest importance:
 ## How to reproduce
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gdm‑diagnosis.git
+git clone https://github.com/SnehaDharne/gdm‑diagnosis.git
 cd gdm‑diagnosis
 
 # create and activate environment
